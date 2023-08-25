@@ -2,13 +2,29 @@
 
 👋 Hi, I’m @Maria-Bethania!
 
-👀 Data analyst under construction!
+    Welcome to my GitHub profile! 
+    
+    I'm a data analysis professional, passionate about uncovering insights within complex datasets. 
+    
+    My journey is a continuous quest for knowledge and growth in the field of data analysis.
 
-🌱 I’m Currently in Training "Data Analyst Jr." on SoulCode!
+🌟 Skills
 
-📫 You can reach me at: mariabetania4@hotmail.com
+    📊 Data Analysis | 📈 Data Visualization | 🐍 Python | 📊 Power BI | 💼 Salesforce | Qlick
 
-Ask me anything you want.
+🌍 Languages
+
+    Us English (Intermediate - B2)
+
+Let's explore the potential of data together! 📊🚀
+
+Join me on this journey as we unravel the mysteries of data and turn numbers into captivating stories. 
+
+If you want to exchange ideas, learn together, or share a virtual cup of coffee, feel free to get in touch! ☕🚀
+
+    📫 You can reach me at: mariabetania4@hotmail.com
+
+
 
 <!---
 Maria-Bethania/Maria-Bethania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
